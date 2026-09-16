@@ -1,8 +1,10 @@
 16-Sep-2026
 
-<!-- notify 1/2 · SDpAoX8y -->
-## Notification 1/2
-Round: Round 1
-To: jarabzbllr@yahoo.com, csilverthorne@salesforce.com
-At: 2026-09-16 14:08:09
-Id: SDpAoX8y
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: philipcdavies@hotmail.com, sobrien@lippes.com
+At: 2026-09-16 14:08:17
+Id: wZABGDLB
